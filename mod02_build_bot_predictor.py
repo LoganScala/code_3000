@@ -1,6 +1,6 @@
 # packages
 import pandas as pd
-from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import GradientBoostingClassifier  
 
 # set seed
 seed = 314
